@@ -43,8 +43,8 @@
 
 <div align="left">
   <h3>📊 Estatísticas do GitHub:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight" height="160" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DaniloBandeira0&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?DaniloBandeira0&layout=compact&theme=tokyonight" height="160" alt="Linguagens Mais Usadas" />
 </div>
 
 ###
