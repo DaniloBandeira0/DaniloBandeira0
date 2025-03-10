@@ -2,8 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/143565487?v=4" />
-
 <div align="left">
   <h3>💻 Tecnologias que utilizo:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
